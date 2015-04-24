@@ -1,0 +1,834 @@
+PROBLEM with pid m038 in file ./output/bizottsagi_tagsag_m038.csv!!
+{u't\xf3l': u'2014.05.06.', u'Ciklus': u'2014-', u'Tiszts\xe9g': u'Tag', u'pid': u'm038', u'Megjegyz\xe9s': u'\xa0', u'Bizotts\xe1g': u'Gazdas\xe1gi bizotts\xe1g', u'ig': u'2014.06.20.'}
+PROBLEM with pid m038 in file ./output/bizottsagi_tagsag_m038.csv!!
+{u't\xf3l': u'2010.06.02.', u'Ciklus': u'2010-2014', u'Tiszts\xe9g': u'Tag', u'pid': u'm038', u'Megjegyz\xe9s': u'\n', u'Bizotts\xe1g': u'Eur\xf3pai \xfcgyek bizotts\xe1ga', u'ig': u'2011.10.23.'}
+PROBLEM with pid m038 in file ./output/bizottsagi_tagsag_m038.csv!!
+{u't\xf3l': u'2011.11.14.', u'Ciklus': u'2010-2014', u'Tiszts\xe9g': u'Tag', u'pid': u'm038', u'Megjegyz\xe9s': u'\xa0', u'Bizotts\xe1g': u'Eur\xf3pai \xfcgyek bizotts\xe1ga', u'ig': u'2014.05.05.'}
+PROBLEM with pid m038 in file ./output/bizottsagi_tagsag_m038.csv!!
+{u't\xf3l': u'2006.05.30.', u'Ciklus': u'2006-2010', u'Tiszts\xe9g': u'Tag', u'pid': u'm038', u'Megjegyz\xe9s': u'\xa0', u'Bizotts\xe1g': u'Eur\xf3pai \xfcgyek bizotts\xe1ga', u'ig': u'2008.05.19.'}
+PROBLEM with pid v045 in file ./output/bizottsagi_tagsag_v045.csv!!
+{u't\xf3l': u'2011.10.10.', u'Ciklus': u'2010-2014', u'Tiszts\xe9g': u'Tag', u'pid': u'v045', u'Megjegyz\xe9s': u'Bizotts\xe1gi tags\xe1gi jogait 2012. okt\xf3ber 16-\xe1t\xf3l nem gyakorolta.', u'Bizotts\xe1g': u'Honv\xe9delmi \xe9s rend\xe9szeti bizotts\xe1g', u'ig': u'2012.12.11.'}
+PROBLEM with pid v045 in file ./output/bizottsagi_tagsag_v045.csv!!
+{u't\xf3l': u'2010.05.14.', u'Ciklus': u'2010-2014', u'Tiszts\xe9g': u'Tag', u'pid': u'v045', u'Megjegyz\xe9s': u'Bizotts\xe1gi tags\xe1gi jogait 2012. okt\xf3ber 16-\xe1t\xf3l nem gyakorolta.', u'Bizotts\xe1g': u'K\xfcl\xfcgyi bizotts\xe1g', u'ig': u'2012.12.11.'}
+PROBLEM with pid l024 in file ./output/nyelvismeret_l024.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'l024'}
+PROBLEM with pid k009 in file ./output/nyelvismeret_k009.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'k009'}
+PROBLEM with pid k108 in file ./output/nyelvismeret_k108.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'k108'}
+PROBLEM with pid t367 in file ./output/nyelvismeret_2_t367.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u't367'}
+PROBLEM with pid s119 in file ./output/nyelvismeret_2_s119.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's119'}
+PROBLEM with pid k225 in file ./output/nyelvismeret_k225.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'n\xe9met', u'pid': u'k225'}
+PROBLEM with pid h043 in file ./output/nyelvismeret_h043.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'h043'}
+PROBLEM with pid h077 in file ./output/nyelvismeret_2_h077.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'h077'}
+PROBLEM with pid c016 in file ./output/nyelvismeret_c016.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'c016'}
+PROBLEM with pid b095 in file ./output/nyelvismeret_b095.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'b095'}
+PROBLEM with pid b095 in file ./output/nyelvismeret_b095.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'b095'}
+PROBLEM with pid v052 in file ./output/nyelvismeret_2_v052.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'v052'}
+PROBLEM with pid v052 in file ./output/nyelvismeret_2_v052.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'sv\xe9d', u'pid': u'v052'}
+PROBLEM with pid s322 in file ./output/nyelvismeret_s322.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's322'}
+PROBLEM with pid s322 in file ./output/nyelvismeret_s322.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u's322'}
+PROBLEM with pid e011 in file ./output/nyelvismeret_e011.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'lov\xe1ri cig\xe1ny', u'pid': u'e011'}
+PROBLEM with pid e011 in file ./output/nyelvismeret_e011.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'B', u'Nyelv': u'n\xe9met', u'pid': u'e011'}
+PROBLEM with pid s067 in file ./output/nyelvismeret_2_s067.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u's067'}
+PROBLEM with pid v039 in file ./output/nyelvismeret_v039.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'v039'}
+PROBLEM with pid h074 in file ./output/nyelvismeret_h074.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'h074'}
+PROBLEM with pid h074 in file ./output/nyelvismeret_h074.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'francia', u'pid': u'h074'}
+PROBLEM with pid h074 in file ./output/nyelvismeret_h074.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'olasz', u'pid': u'h074'}
+PROBLEM with pid l267 in file ./output/nyelvismeret_l267.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u'l267'}
+PROBLEM with pid l267 in file ./output/nyelvismeret_l267.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'l267'}
+PROBLEM with pid k069 in file ./output/nyelvismeret_k069.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'k069'}
+PROBLEM with pid k069 in file ./output/nyelvismeret_k069.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'k069'}
+PROBLEM with pid b344 in file ./output/nyelvismeret_b344.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'b344'}
+PROBLEM with pid c025 in file ./output/nyelvismeret_c025.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'c025'}
+PROBLEM with pid c025 in file ./output/nyelvismeret_c025.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'c025'}
+PROBLEM with pid r023 in file ./output/nyelvismeret_2_r023.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'r023'}
+PROBLEM with pid m323 in file ./output/nyelvismeret_m323.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u'm323'}
+PROBLEM with pid m323 in file ./output/nyelvismeret_m323.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'B', u'Nyelv': u'angol', u'pid': u'm323'}
+PROBLEM with pid l026 in file ./output/nyelvismeret_l026.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'n\xe9met', u'pid': u'l026'}
+PROBLEM with pid c030 in file ./output/nyelvismeret_2_c030.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'c030'}
+PROBLEM with pid c030 in file ./output/nyelvismeret_2_c030.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'c030'}
+PROBLEM with pid d002 in file ./output/nyelvismeret_d002.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'd002'}
+PROBLEM with pid d002 in file ./output/nyelvismeret_d002.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'd002'}
+PROBLEM with pid a014 in file ./output/nyelvismeret_2_a014.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'a014'}
+PROBLEM with pid a014 in file ./output/nyelvismeret_2_a014.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'a014'}
+PROBLEM with pid d176 in file ./output/nyelvismeret_d176.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'd176'}
+PROBLEM with pid t012 in file ./output/nyelvismeret_t012.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'BE\xc1S', u'pid': u't012'}
+PROBLEM with pid s111 in file ./output/nyelvismeret_2_s111.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's111'}
+PROBLEM with pid s111 in file ./output/nyelvismeret_2_s111.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u's111'}
+PROBLEM with pid n322 in file ./output/nyelvismeret_n322.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'n322'}
+PROBLEM with pid n322 in file ./output/nyelvismeret_n322.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'n322'}
+PROBLEM with pid c032 in file ./output/nyelvismeret_c032.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'c032'}
+PROBLEM with pid s064 in file ./output/nyelvismeret_2_s064.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u's064'}
+PROBLEM with pid s064 in file ./output/nyelvismeret_2_s064.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u't\xf6r\xf6k', u'pid': u's064'}
+PROBLEM with pid d027 in file ./output/nyelvismeret_2_d027.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'd027'}
+PROBLEM with pid d027 in file ./output/nyelvismeret_2_d027.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'd027'}
+PROBLEM with pid k119 in file ./output/nyelvismeret_2_k119.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'francia', u'pid': u'k119'}
+PROBLEM with pid b164 in file ./output/nyelvismeret_b164.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'b164'}
+PROBLEM with pid s132 in file ./output/nyelvismeret_s132.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's132'}
+PROBLEM with pid s132 in file ./output/nyelvismeret_s132.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u's132'}
+PROBLEM with pid h050 in file ./output/nyelvismeret_2_h050.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'eszperant\xf3', u'pid': u'h050'}
+PROBLEM with pid h050 in file ./output/nyelvismeret_2_h050.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'h050'}
+PROBLEM with pid b080 in file ./output/nyelvismeret_b080.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'b080'}
+PROBLEM with pid b080 in file ./output/nyelvismeret_b080.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'b080'}
+PROBLEM with pid s313 in file ./output/nyelvismeret_2_s313.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u's313'}
+PROBLEM with pid m299 in file ./output/nyelvismeret_m299.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'francia', u'pid': u'm299'}
+PROBLEM with pid b096 in file ./output/nyelvismeret_b096.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u'b096'}
+PROBLEM with pid s011 in file ./output/nyelvismeret_s011.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's011'}
+PROBLEM with pid s011 in file ./output/nyelvismeret_s011.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u's011'}
+PROBLEM with pid t045 in file ./output/nyelvismeret_2_t045.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u't045'}
+PROBLEM with pid g049 in file ./output/nyelvismeret_g049.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'g049'}
+PROBLEM with pid s070 in file ./output/nyelvismeret_s070.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's070'}
+PROBLEM with pid z011 in file ./output/nyelvismeret_z011.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'z011'}
+PROBLEM with pid s136 in file ./output/nyelvismeret_s136.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's136'}
+PROBLEM with pid s136 in file ./output/nyelvismeret_s136.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u's136'}
+PROBLEM with pid b195 in file ./output/nyelvismeret_b195.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'b195'}
+PROBLEM with pid t084 in file ./output/nyelvismeret_t084.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u't084'}
+PROBLEM with pid t084 in file ./output/nyelvismeret_t084.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'francia', u'pid': u't084'}
+PROBLEM with pid t084 in file ./output/nyelvismeret_t084.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u't084'}
+PROBLEM with pid t084 in file ./output/nyelvismeret_t084.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u't084'}
+PROBLEM with pid s012 in file ./output/nyelvismeret_s012.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's012'}
+PROBLEM with pid m050 in file ./output/nyelvismeret_2_m050.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'm050'}
+PROBLEM with pid s068 in file ./output/nyelvismeret_2_s068.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u's068'}
+PROBLEM with pid v045 in file ./output/nyelvismeret_v045.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'v045'}
+PROBLEM with pid v045 in file ./output/nyelvismeret_v045.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'v045'}
+PROBLEM with pid k240 in file ./output/nyelvismeret_2_k240.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'spanyol', u'pid': u'k240'}
+PROBLEM with pid t024 in file ./output/nyelvismeret_t024.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u't024'}
+PROBLEM with pid j013 in file ./output/nyelvismeret_j013.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'j013'}
+PROBLEM with pid j013 in file ./output/nyelvismeret_j013.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'francia', u'pid': u'j013'}
+PROBLEM with pid j013 in file ./output/nyelvismeret_j013.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'olasz', u'pid': u'j013'}
+PROBLEM with pid k098 in file ./output/nyelvismeret_k098.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'k098'}
+PROBLEM with pid g023 in file ./output/nyelvismeret_g023.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u'g023'}
+PROBLEM with pid v044 in file ./output/nyelvismeret_2_v044.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'v044'}
+PROBLEM with pid v044 in file ./output/nyelvismeret_2_v044.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'v044'}
+PROBLEM with pid s073 in file ./output/nyelvismeret_s073.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's073'}
+PROBLEM with pid k117 in file ./output/nyelvismeret_k117.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'k117'}
+PROBLEM with pid m026 in file ./output/nyelvismeret_m026.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u'm026'}
+PROBLEM with pid m026 in file ./output/nyelvismeret_m026.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'spanyol', u'pid': u'm026'}
+PROBLEM with pid b162 in file ./output/nyelvismeret_b162.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'b162'}
+PROBLEM with pid a016 in file ./output/nyelvismeret_a016.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'a016'}
+PROBLEM with pid k097 in file ./output/nyelvismeret_k097.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'k097'}
+PROBLEM with pid k097 in file ./output/nyelvismeret_k097.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'k097'}
+PROBLEM with pid s113 in file ./output/nyelvismeret_2_s113.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's113'}
+PROBLEM with pid s113 in file ./output/nyelvismeret_2_s113.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'olasz', u'pid': u's113'}
+PROBLEM with pid l027 in file ./output/nyelvismeret_l027.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'l027'}
+PROBLEM with pid l036 in file ./output/nyelvismeret_2_l036.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'l036'}
+PROBLEM with pid b074 in file ./output/nyelvismeret_2_b074.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'B', u'Nyelv': u'angol', u'pid': u'b074'}
+PROBLEM with pid b013 in file ./output/nyelvismeret_b013.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'b013'}
+PROBLEM with pid s099 in file ./output/nyelvismeret_s099.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's099'}
+PROBLEM with pid s099 in file ./output/nyelvismeret_s099.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u's099'}
+PROBLEM with pid v049 in file ./output/nyelvismeret_2_v049.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'v049'}
+PROBLEM with pid v049 in file ./output/nyelvismeret_2_v049.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'v049'}
+PROBLEM with pid h025 in file ./output/nyelvismeret_h025.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'h025'}
+PROBLEM with pid h025 in file ./output/nyelvismeret_h025.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'lengyel', u'pid': u'h025'}
+PROBLEM with pid h025 in file ./output/nyelvismeret_h025.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'h025'}
+PROBLEM with pid l029 in file ./output/nyelvismeret_2_l029.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'l029'}
+PROBLEM with pid k765 in file ./output/nyelvismeret_k765.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'eszperant\xf3', u'pid': u'k765'}
+PROBLEM with pid b087 in file ./output/nyelvismeret_b087.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'b087'}
+PROBLEM with pid b087 in file ./output/nyelvismeret_b087.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'spanyol', u'pid': u'b087'}
+PROBLEM with pid k008 in file ./output/nyelvismeret_k008.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'k008'}
+PROBLEM with pid c272 in file ./output/nyelvismeret_c272.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'c272'}
+PROBLEM with pid g199 in file ./output/nyelvismeret_2_g199.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'g199'}
+PROBLEM with pid b064 in file ./output/nyelvismeret_b064.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'b064'}
+PROBLEM with pid k063 in file ./output/nyelvismeret_2_k063.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'n\xe9met', u'pid': u'k063'}
+PROBLEM with pid n017 in file ./output/nyelvismeret_n017.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'n017'}
+PROBLEM with pid d003 in file ./output/nyelvismeret_d003.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'd003'}
+PROBLEM with pid d003 in file ./output/nyelvismeret_d003.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'd003'}
+PROBLEM with pid b052 in file ./output/nyelvismeret_2_b052.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'b052'}
+PROBLEM with pid s054 in file ./output/nyelvismeret_2_s054.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's054'}
+PROBLEM with pid s054 in file ./output/nyelvismeret_2_s054.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u's054'}
+PROBLEM with pid h027 in file ./output/nyelvismeret_h027.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'h027'}
+PROBLEM with pid s314 in file ./output/nyelvismeret_2_s314.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's314'}
+PROBLEM with pid s123 in file ./output/nyelvismeret_s123.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u's123'}
+PROBLEM with pid g370 in file ./output/nyelvismeret_2_g370.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'B', u'Nyelv': u'n\xe9met', u'pid': u'g370'}
+PROBLEM with pid w001 in file ./output/nyelvismeret_w001.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'w001'}
+PROBLEM with pid w001 in file ./output/nyelvismeret_w001.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'w001'}
+PROBLEM with pid k100 in file ./output/nyelvismeret_k100.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'k100'}
+PROBLEM with pid s774 in file ./output/nyelvismeret_2_s774.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'B', u'Nyelv': u'angol', u'pid': u's774'}
+PROBLEM with pid h026 in file ./output/nyelvismeret_2_h026.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'latin', u'pid': u'h026'}
+PROBLEM with pid h026 in file ./output/nyelvismeret_2_h026.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'olasz', u'pid': u'h026'}
+PROBLEM with pid d333 in file ./output/nyelvismeret_2_d333.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'd333'}
+PROBLEM with pid n018 in file ./output/nyelvismeret_n018.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u'n018'}
+PROBLEM with pid n018 in file ./output/nyelvismeret_n018.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'olasz', u'pid': u'n018'}
+PROBLEM with pid k145 in file ./output/nyelvismeret_k145.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'k145'}
+PROBLEM with pid k145 in file ./output/nyelvismeret_k145.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'k145'}
+PROBLEM with pid g037 in file ./output/nyelvismeret_2_g037.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'g037'}
+PROBLEM with pid i731 in file ./output/nyelvismeret_i731.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'i731'}
+PROBLEM with pid i731 in file ./output/nyelvismeret_i731.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'n\xe9met', u'pid': u'i731'}
+PROBLEM with pid k112 in file ./output/nyelvismeret_2_k112.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'k112'}
+PROBLEM with pid h073 in file ./output/nyelvismeret_2_h073.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'h073'}
+PROBLEM with pid h056 in file ./output/nyelvismeret_h056.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'h056'}
+PROBLEM with pid s108 in file ./output/nyelvismeret_s108.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'B', u'Nyelv': u'angol', u'pid': u's108'}
+PROBLEM with pid s108 in file ./output/nyelvismeret_s108.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u's108'}
+PROBLEM with pid s108 in file ./output/nyelvismeret_s108.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'rom\xe1n', u'pid': u's108'}
+PROBLEM with pid g065 in file ./output/nyelvismeret_g065.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'g065'}
+PROBLEM with pid k247 in file ./output/nyelvismeret_2_k247.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'k247'}
+PROBLEM with pid m014 in file ./output/nyelvismeret_m014.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'm014'}
+PROBLEM with pid m014 in file ./output/nyelvismeret_m014.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'francia', u'pid': u'm014'}
+PROBLEM with pid s088 in file ./output/nyelvismeret_s088.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u's088'}
+PROBLEM with pid f030 in file ./output/nyelvismeret_2_f030.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'f030'}
+PROBLEM with pid v058 in file ./output/nyelvismeret_v058.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'v058'}
+PROBLEM with pid b084 in file ./output/nyelvismeret_b084.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'b084'}
+PROBLEM with pid b084 in file ./output/nyelvismeret_b084.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'b084'}
+PROBLEM with pid m017 in file ./output/nyelvismeret_m017.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'm017'}
+PROBLEM with pid b022 in file ./output/nyelvismeret_b022.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'b022'}
+PROBLEM with pid h055 in file ./output/nyelvismeret_2_h055.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'h055'}
+PROBLEM with pid g053 in file ./output/nyelvismeret_2_g053.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'g053'}
+PROBLEM with pid k115 in file ./output/nyelvismeret_k115.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'k115'}
+PROBLEM with pid s769 in file ./output/nyelvismeret_2_s769.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's769'}
+PROBLEM with pid g014 in file ./output/nyelvismeret_2_g014.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'g014'}
+PROBLEM with pid g022 in file ./output/nyelvismeret_2_g022.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'francia', u'pid': u'g022'}
+PROBLEM with pid g022 in file ./output/nyelvismeret_2_g022.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'spanyol', u'pid': u'g022'}
+PROBLEM with pid k257 in file ./output/nyelvismeret_2_k257.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'rom\xe1n', u'pid': u'k257'}
+PROBLEM with pid p015 in file ./output/nyelvismeret_p015.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'p015'}
+PROBLEM with pid p015 in file ./output/nyelvismeret_p015.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'p015'}
+PROBLEM with pid s772 in file ./output/nyelvismeret_s772.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'B', u'Nyelv': u'angol', u'pid': u's772'}
+PROBLEM with pid s772 in file ./output/nyelvismeret_s772.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u's772'}
+PROBLEM with pid u004 in file ./output/nyelvismeret_u004.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'u004'}
+PROBLEM with pid p012 in file ./output/nyelvismeret_2_p012.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'p012'}
+PROBLEM with pid c123 in file ./output/nyelvismeret_2_c123.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'c123'}
+PROBLEM with pid s125 in file ./output/nyelvismeret_s125.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u's125'}
+PROBLEM with pid s125 in file ./output/nyelvismeret_s125.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u's125'}
+PROBLEM with pid a716 in file ./output/nyelvismeret_a716.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u'a716'}
+PROBLEM with pid a716 in file ./output/nyelvismeret_a716.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'B', u'Nyelv': u'angol', u'pid': u'a716'}
+PROBLEM with pid a716 in file ./output/nyelvismeret_a716.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'latin', u'pid': u'a716'}
+PROBLEM with pid k762 in file ./output/nyelvismeret_k762.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u'k762'}
+PROBLEM with pid t015 in file ./output/nyelvismeret_t015.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u't015'}
+PROBLEM with pid b076 in file ./output/nyelvismeret_b076.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'b076'}
+PROBLEM with pid b076 in file ./output/nyelvismeret_b076.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'b076'}
+PROBLEM with pid m079 in file ./output/nyelvismeret_2_m079.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'm079'}
+PROBLEM with pid i225 in file ./output/nyelvismeret_i225.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'francia', u'pid': u'i225'}
+PROBLEM with pid s101 in file ./output/nyelvismeret_s101.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u's101'}
+PROBLEM with pid s773 in file ./output/nyelvismeret_s773.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u's773'}
+PROBLEM with pid s065 in file ./output/nyelvismeret_s065.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'n\xe9met', u'pid': u's065'}
+PROBLEM with pid b092 in file ./output/nyelvismeret_b092.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'b092'}
+PROBLEM with pid b092 in file ./output/nyelvismeret_b092.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'b092'}
+PROBLEM with pid v047 in file ./output/nyelvismeret_v047.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'v047'}
+PROBLEM with pid h040 in file ./output/nyelvismeret_2_h040.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'francia', u'pid': u'h040'}
+PROBLEM with pid h040 in file ./output/nyelvismeret_2_h040.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'h040'}
+PROBLEM with pid v056 in file ./output/nyelvismeret_v056.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'v056'}
+PROBLEM with pid t025 in file ./output/nyelvismeret_t025.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u't025'}
+PROBLEM with pid c028 in file ./output/nyelvismeret_c028.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'c028'}
+PROBLEM with pid c028 in file ./output/nyelvismeret_c028.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'c028'}
+PROBLEM with pid d751 in file ./output/nyelvismeret_d751.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'francia', u'pid': u'd751'}
+PROBLEM with pid d751 in file ./output/nyelvismeret_d751.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'd751'}
+PROBLEM with pid h033 in file ./output/nyelvismeret_h033.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'h033'}
+PROBLEM with pid s023 in file ./output/nyelvismeret_2_s023.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u's023'}
+PROBLEM with pid s372 in file ./output/nyelvismeret_2_s372.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's372'}
+PROBLEM with pid s372 in file ./output/nyelvismeret_2_s372.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u's372'}
+PROBLEM with pid d029 in file ./output/nyelvismeret_2_d029.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'arab', u'pid': u'd029'}
+PROBLEM with pid j232 in file ./output/nyelvismeret_2_j232.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'j232'}
+PROBLEM with pid n036 in file ./output/nyelvismeret_n036.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'n036'}
+PROBLEM with pid w004 in file ./output/nyelvismeret_w004.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'w004'}
+PROBLEM with pid m053 in file ./output/nyelvismeret_2_m053.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'francia', u'pid': u'm053'}
+PROBLEM with pid m053 in file ./output/nyelvismeret_2_m053.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'olasz', u'pid': u'm053'}
+PROBLEM with pid f014 in file ./output/nyelvismeret_f014.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'orosz', u'pid': u'f014'}
+PROBLEM with pid k107 in file ./output/nyelvismeret_k107.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'B', u'Nyelv': u'angol', u'pid': u'k107'}
+PROBLEM with pid k107 in file ./output/nyelvismeret_k107.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u'k107'}
+PROBLEM with pid f028 in file ./output/nyelvismeret_f028.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'f028'}
+PROBLEM with pid f028 in file ./output/nyelvismeret_f028.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'francia', u'pid': u'f028'}
+PROBLEM with pid g017 in file ./output/nyelvismeret_g017.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'g017'}
+PROBLEM with pid f192 in file ./output/nyelvismeret_2_f192.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'f192'}
+PROBLEM with pid l038 in file ./output/nyelvismeret_l038.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'l038'}
+PROBLEM with pid s115 in file ./output/nyelvismeret_2_s115.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's115'}
+PROBLEM with pid s115 in file ./output/nyelvismeret_2_s115.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u's115'}
+PROBLEM with pid f021 in file ./output/nyelvismeret_f021.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'f021'}
+PROBLEM with pid f021 in file ./output/nyelvismeret_f021.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'f021'}
+PROBLEM with pid h015 in file ./output/nyelvismeret_2_h015.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'portug\xe1l', u'pid': u'h015'}
+PROBLEM with pid k111 in file ./output/nyelvismeret_2_k111.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'B', u'Nyelv': u'angol', u'pid': u'k111'}
+PROBLEM with pid k111 in file ./output/nyelvismeret_2_k111.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u'k111'}
+PROBLEM with pid s027 in file ./output/nyelvismeret_s027.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's027'}
+PROBLEM with pid s027 in file ./output/nyelvismeret_s027.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u's027'}
+PROBLEM with pid s027 in file ./output/nyelvismeret_s027.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'olasz', u'pid': u's027'}
+PROBLEM with pid s027 in file ./output/nyelvismeret_s027.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u's027'}
+PROBLEM with pid b166 in file ./output/nyelvismeret_2_b166.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'b166'}
+PROBLEM with pid m056 in file ./output/nyelvismeret_m056.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'm056'}
+PROBLEM with pid s768 in file ./output/nyelvismeret_s768.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's768'}
+PROBLEM with pid g006 in file ./output/nyelvismeret_g006.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u'g006'}
+PROBLEM with pid g006 in file ./output/nyelvismeret_g006.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'g006'}
+PROBLEM with pid b008 in file ./output/nyelvismeret_b008.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'b008'}
+PROBLEM with pid b008 in file ./output/nyelvismeret_b008.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'b008'}
+PROBLEM with pid s771 in file ./output/nyelvismeret_s771.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's771'}
+PROBLEM with pid s771 in file ./output/nyelvismeret_s771.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u's771'}
+PROBLEM with pid s140 in file ./output/nyelvismeret_s140.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's140'}
+PROBLEM with pid s140 in file ./output/nyelvismeret_s140.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u's140'}
+PROBLEM with pid b738 in file ./output/nyelvismeret_2_b738.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'b738'}
+PROBLEM with pid b738 in file ./output/nyelvismeret_2_b738.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'b738'}
+PROBLEM with pid b738 in file ./output/nyelvismeret_2_b738.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'spanyol', u'pid': u'b738'}
+PROBLEM with pid k094 in file ./output/nyelvismeret_k094.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'k094'}
+PROBLEM with pid v031 in file ./output/nyelvismeret_v031.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u'v031'}
+PROBLEM with pid s116 in file ./output/nyelvismeret_s116.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'B', u'Nyelv': u'angol', u'pid': u's116'}
+PROBLEM with pid k044 in file ./output/nyelvismeret_k044.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'k044'}
+PROBLEM with pid k044 in file ./output/nyelvismeret_k044.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'k044'}
+PROBLEM with pid n006 in file ./output/nyelvismeret_n006.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'n006'}
+PROBLEM with pid k763 in file ./output/nyelvismeret_k763.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'k763'}
+PROBLEM with pid n012 in file ./output/nyelvismeret_n012.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'n012'}
+PROBLEM with pid m282 in file ./output/nyelvismeret_2_m282.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'm282'}
+PROBLEM with pid f029 in file ./output/nyelvismeret_2_f029.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'rom\xe1n', u'pid': u'f029'}
+PROBLEM with pid t039 in file ./output/nyelvismeret_2_t039.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'n\xe9met', u'pid': u't039'}
+PROBLEM with pid g056 in file ./output/nyelvismeret_2_g056.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'g056'}
+PROBLEM with pid g056 in file ./output/nyelvismeret_2_g056.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'g056'}
+PROBLEM with pid p030 in file ./output/nyelvismeret_2_p030.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'p030'}
+PROBLEM with pid v037 in file ./output/nyelvismeret_2_v037.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'alb\xe1n', u'pid': u'v037'}
+PROBLEM with pid v037 in file ./output/nyelvismeret_2_v037.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'olasz', u'pid': u'v037'}
+PROBLEM with pid v037 in file ./output/nyelvismeret_2_v037.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'v037'}
+PROBLEM with pid k057 in file ./output/nyelvismeret_2_k057.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'k057'}
+PROBLEM with pid k057 in file ./output/nyelvismeret_2_k057.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'francia', u'pid': u'k057'}
+PROBLEM with pid z012 in file ./output/nyelvismeret_2_z012.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'z012'}
+PROBLEM with pid h057 in file ./output/nyelvismeret_h057.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'francia', u'pid': u'h057'}
+PROBLEM with pid t023 in file ./output/nyelvismeret_t023.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u't023'}
+PROBLEM with pid t023 in file ./output/nyelvismeret_t023.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u't023'}
+PROBLEM with pid m020 in file ./output/nyelvismeret_m020.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'm020'}
+PROBLEM with pid n034 in file ./output/nyelvismeret_n034.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'n034'}
+PROBLEM with pid n034 in file ./output/nyelvismeret_n034.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'n\xe9met', u'pid': u'n034'}
+PROBLEM with pid v032 in file ./output/nyelvismeret_v032.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u'v032'}
+PROBLEM with pid v033 in file ./output/nyelvismeret_v033.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'v033'}
+PROBLEM with pid m021 in file ./output/nyelvismeret_m021.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'm021'}
+PROBLEM with pid n025 in file ./output/nyelvismeret_n025.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'n\xe9met', u'pid': u'n025'}
+PROBLEM with pid n025 in file ./output/nyelvismeret_n025.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'n025'}
+PROBLEM with pid l034 in file ./output/nyelvismeret_l034.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'l034'}
+PROBLEM with pid a008 in file ./output/nyelvismeret_a008.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'a008'}
+PROBLEM with pid i005 in file ./output/nyelvismeret_i005.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'i005'}
+PROBLEM with pid h058 in file ./output/nyelvismeret_h058.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'h058'}
+PROBLEM with pid h058 in file ./output/nyelvismeret_h058.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'h058'}
+PROBLEM with pid m247 in file ./output/nyelvismeret_m247.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'm247'}
+PROBLEM with pid m247 in file ./output/nyelvismeret_m247.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'm247'}
+PROBLEM with pid g048 in file ./output/nyelvismeret_g048.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'g048'}
+PROBLEM with pid n026 in file ./output/nyelvismeret_2_n026.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'n026'}
+PROBLEM with pid n026 in file ./output/nyelvismeret_2_n026.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'szerbhorv\xe1t', u'pid': u'n026'}
+PROBLEM with pid d025 in file ./output/nyelvismeret_d025.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'd025'}
+PROBLEM with pid k106 in file ./output/nyelvismeret_2_k106.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'k106'}
+PROBLEM with pid k254 in file ./output/nyelvismeret_k254.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'k254'}
+PROBLEM with pid t005 in file ./output/nyelvismeret_t005.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u't005'}
+PROBLEM with pid b055 in file ./output/nyelvismeret_b055.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'b055'}
+PROBLEM with pid b055 in file ./output/nyelvismeret_b055.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'n\xe9met', u'pid': u'b055'}
+PROBLEM with pid b055 in file ./output/nyelvismeret_b055.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'b055'}
+PROBLEM with pid n031 in file ./output/nyelvismeret_n031.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'B', u'Nyelv': u'eszperant\xf3', u'pid': u'n031'}
+PROBLEM with pid n031 in file ./output/nyelvismeret_n031.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'n031'}
+PROBLEM with pid p031 in file ./output/nyelvismeret_p031.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'p031'}
+PROBLEM with pid p031 in file ./output/nyelvismeret_p031.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'p031'}
+PROBLEM with pid p031 in file ./output/nyelvismeret_p031.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'p031'}
+PROBLEM with pid h071 in file ./output/nyelvismeret_h071.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'h071'}
+PROBLEM with pid h275 in file ./output/nyelvismeret_2_h275.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'h275'}
+PROBLEM with pid g052 in file ./output/nyelvismeret_g052.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u'g052'}
+PROBLEM with pid g052 in file ./output/nyelvismeret_g052.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'g052'}
+PROBLEM with pid m033 in file ./output/nyelvismeret_m033.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'n\xe9met', u'pid': u'm033'}
+PROBLEM with pid m051 in file ./output/nyelvismeret_m051.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'm051'}
+PROBLEM with pid t041 in file ./output/nyelvismeret_2_t041.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u't041'}
+PROBLEM with pid k073 in file ./output/nyelvismeret_2_k073.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'k073'}
+PROBLEM with pid p304 in file ./output/nyelvismeret_p304.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'p304'}
+PROBLEM with pid p304 in file ./output/nyelvismeret_p304.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'orosz', u'pid': u'p304'}
+PROBLEM with pid b078 in file ./output/nyelvismeret_b078.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'b078'}
+PROBLEM with pid b085 in file ./output/nyelvismeret_b085.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'b085'}
+PROBLEM with pid s042 in file ./output/nyelvismeret_s042.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's042'}
+PROBLEM with pid s042 in file ./output/nyelvismeret_s042.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's042'}
+PROBLEM with pid s042 in file ./output/nyelvismeret_s042.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u's042'}
+PROBLEM with pid a013 in file ./output/nyelvismeret_2_a013.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u'a013'}
+PROBLEM with pid a013 in file ./output/nyelvismeret_2_a013.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'angol', u'pid': u'a013'}
+PROBLEM with pid a013 in file ./output/nyelvismeret_2_a013.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'spanyol', u'pid': u'a013'}
+PROBLEM with pid n288 in file ./output/nyelvismeret_n288.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'n288'}
+PROBLEM with pid l033 in file ./output/nyelvismeret_2_l033.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'eszperant\xf3', u'pid': u'l033'}
+PROBLEM with pid l042 in file ./output/nyelvismeret_2_l042.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'l042'}
+PROBLEM with pid h046 in file ./output/nyelvismeret_2_h046.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'h046'}
+PROBLEM with pid v403 in file ./output/nyelvismeret_2_v403.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'B', u'Nyelv': u'angol', u'pid': u'v403'}
+PROBLEM with pid r008 in file ./output/nyelvismeret_2_r008.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'r008'}
+PROBLEM with pid d750 in file ./output/nyelvismeret_d750.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'd750'}
+PROBLEM with pid d184 in file ./output/nyelvismeret_2_d184.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'd184'}
+PROBLEM with pid n022 in file ./output/nyelvismeret_2_n022.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'francia', u'pid': u'n022'}
+PROBLEM with pid n022 in file ./output/nyelvismeret_2_n022.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'n022'}
+PROBLEM with pid k047 in file ./output/nyelvismeret_k047.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'k047'}
+PROBLEM with pid k047 in file ./output/nyelvismeret_k047.csv!!
+{u'Foka': u'alapfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'k047'}
+PROBLEM with pid d028 in file ./output/nyelvismeret_2_d028.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'd028'}
+PROBLEM with pid d028 in file ./output/nyelvismeret_2_d028.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'B', u'Nyelv': u'n\xe9met', u'pid': u'd028'}
+PROBLEM with pid d028 in file ./output/nyelvismeret_2_d028.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'n\xe9met', u'pid': u'd028'}
+PROBLEM with pid v013 in file ./output/nyelvismeret_2_v013.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'v013'}
+PROBLEM with pid v013 in file ./output/nyelvismeret_2_v013.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'francia', u'pid': u'v013'}
+PROBLEM with pid v013 in file ./output/nyelvismeret_2_v013.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'norv\xe9g', u'pid': u'v013'}
+PROBLEM with pid v013 in file ./output/nyelvismeret_2_v013.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'v013'}
+PROBLEM with pid v013 in file ./output/nyelvismeret_2_v013.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'spanyol', u'pid': u'v013'}
+PROBLEM with pid k036 in file ./output/nyelvismeret_2_k036.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'n\xe9met', u'pid': u'k036'}
+PROBLEM with pid b018 in file ./output/nyelvismeret_b018.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'b018'}
+PROBLEM with pid b077 in file ./output/nyelvismeret_2_b077.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'A', u'Nyelv': u'n\xe9met', u'pid': u'b077'}
+PROBLEM with pid l016 in file ./output/nyelvismeret_2_l016.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'l016'}
+PROBLEM with pid e262 in file ./output/nyelvismeret_e262.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'e262'}
+PROBLEM with pid e262 in file ./output/nyelvismeret_e262.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'e262'}
+PROBLEM with pid s109 in file ./output/nyelvismeret_2_s109.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's109'}
+PROBLEM with pid g057 in file ./output/nyelvismeret_g057.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'g057'}
+PROBLEM with pid g057 in file ./output/nyelvismeret_g057.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'g057'}
+PROBLEM with pid v190 in file ./output/nyelvismeret_v190.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'v190'}
+PROBLEM with pid v190 in file ./output/nyelvismeret_v190.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u'v190'}
+PROBLEM with pid n010 in file ./output/nyelvismeret_n010.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'n010'}
+PROBLEM with pid n010 in file ./output/nyelvismeret_n010.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'n\xe9met', u'pid': u'n010'}
+PROBLEM with pid s358 in file ./output/nyelvismeret_s358.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's358'}
+PROBLEM with pid t021 in file ./output/nyelvismeret_t021.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u't021'}
+PROBLEM with pid t028 in file ./output/nyelvismeret_t028.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u't028'}
+PROBLEM with pid b025 in file ./output/nyelvismeret_b025.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u'b025'}
+PROBLEM with pid s321 in file ./output/nyelvismeret_s321.csv!!
+{u'Foka': u'k\xf6z\xe9pfok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'angol', u'pid': u's321'}
+PROBLEM with pid s321 in file ./output/nyelvismeret_s321.csv!!
+{u'Foka': u'fels\u0151fok\xfa', u'T\xedpusa': u'C', u'Nyelv': u'orosz', u'pid': u's321'}
+PROBLEM with pid s013 in file ./output/vagyonnyilatkozat__s013.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2012.08.06.', u'pid': u's013', u'Megjegyz\xe9s': u'Z\xe1r\xf3 nyilatkozat a', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2012', u'A vagyoni \xe1llapot id\u0151pontja': u'2012.07.07.'}
+PROBLEM with pid s013 in file ./output/vagyonnyilatkozat__s013.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2013.01.31.', u'pid': u's013', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2012', u'A vagyoni \xe1llapot id\u0151pontja': u'2012.12.31.'}
+PROBLEM with pid s013 in file ./output/vagyonnyilatkozat__s013.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.01.31.', u'pid': u's013', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2013', u'A vagyoni \xe1llapot id\u0151pontja': u'2013.12.31.'}
+PROBLEM with pid s013 in file ./output/vagyonnyilatkozat__s013.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.06.05.', u'pid': u's013', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.05.06.'}
+PROBLEM with pid s013 in file ./output/vagyonnyilatkozat__s013.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2015.01.31.', u'pid': u's013', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.12.31.'}
+PROBLEM with pid b009 in file ./output/vagyonnyilatkozat__b009.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2012.07.11.', u'pid': u'b009', u'Megjegyz\xe9s': u'Z\xc1R\xd3', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2012', u'A vagyoni \xe1llapot id\u0151pontja': u'2012.06.11.'}
+PROBLEM with pid b009 in file ./output/vagyonnyilatkozat__b009.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.06.05.', u'pid': u'b009', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.05.06.'}
+PROBLEM with pid b009 in file ./output/vagyonnyilatkozat__b009.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2015.01.31.', u'pid': u'b009', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.12.31.'}
+PROBLEM with pid m017 in file ./output/vagyonnyilatkozat__m017.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2012.01.31.', u'pid': u'm017', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2011', u'A vagyoni \xe1llapot id\u0151pontja': u'2011.12.31.'}
+PROBLEM with pid m017 in file ./output/vagyonnyilatkozat__m017.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2013.01.31.', u'pid': u'm017', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2012', u'A vagyoni \xe1llapot id\u0151pontja': u'2012.12.31.'}
+PROBLEM with pid m017 in file ./output/vagyonnyilatkozat__m017.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2013.04.02.', u'pid': u'm017', u'Megjegyz\xe9s': u'Z\xe1r\xf3', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2013', u'A vagyoni \xe1llapot id\u0151pontja': u'2013.03.03.'}
+PROBLEM with pid m017 in file ./output/vagyonnyilatkozat__m017.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2013.04.03.', u'pid': u'm017', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2013', u'A vagyoni \xe1llapot id\u0151pontja': u'2013.03.04.'}
+PROBLEM with pid m017 in file ./output/vagyonnyilatkozat__m017.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.01.31.', u'pid': u'm017', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2013', u'A vagyoni \xe1llapot id\u0151pontja': u'2013.12.31.'}
+PROBLEM with pid m017 in file ./output/vagyonnyilatkozat__m017.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2015.01.31.', u'pid': u'm017', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.12.31.'}
+PROBLEM with pid n026 in file ./output/vagyonnyilatkozat__n026.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2012.01.31.', u'pid': u'n026', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2011', u'A vagyoni \xe1llapot id\u0151pontja': u'2011.12.31.'}
+PROBLEM with pid n026 in file ./output/vagyonnyilatkozat__n026.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2013.01.31.', u'pid': u'n026', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2012', u'A vagyoni \xe1llapot id\u0151pontja': u'2012.12.31.'}
+PROBLEM with pid n026 in file ./output/vagyonnyilatkozat__n026.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.01.31.', u'pid': u'n026', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2013', u'A vagyoni \xe1llapot id\u0151pontja': u'2013.12.31.'}
+PROBLEM with pid n026 in file ./output/vagyonnyilatkozat__n026.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.06.05.', u'pid': u'n026', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.05.06.'}
+PROBLEM with pid n026 in file ./output/vagyonnyilatkozat__n026.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.10.22.', u'pid': u'n026', u'Megjegyz\xe9s': u'Z\xe1r\xf3 nyilatkozat a k\xf6zponti \xe1llamigazgat\xe1si szervekr\u0151l, valamint a Korm\xe1ny tagjai \xe9s az \xe1llamtitk\xe1rok jog\xe1ll\xe1s\xe1r\xf3l sz\xf3l\xf3 2010. \xe9vi XLIII. t\xf6rv\xe9ny 12/B. \xa7 (2) bekezd\xe9s\xe9ben meghat\xe1rozott rendelkez\xe9s szerint.', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.09.22.'}
+PROBLEM with pid n026 in file ./output/vagyonnyilatkozat__n026.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.12.01.', u'pid': u'n026', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.10.30.'}
+PROBLEM with pid k114 in file ./output/vagyonnyilatkozat__k114.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2012.10.23.', u'pid': u'k114', u'Megjegyz\xe9s': u'Z\xe1r\xf3', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2012', u'A vagyoni \xe1llapot id\u0151pontja': u'2012.09.23.'}
+PROBLEM with pid b052 in file ./output/vagyonnyilatkozat__b052.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2012.06.12.', u'pid': u'b052', u'Megjegyz\xe9s': u'Z\xe1r\xf3 nyilatkozat a k\xf6zponti \xe1llamigazgat\xe1si szervekr\u0151l, valamint a Korm\xe1ny tagjai \xe9s az \xe1llamtitk\xe1rok jog\xe1ll\xe1s\xe1r\xf3l sz\xf3l\xf3 2010. \xe9vi XLIII. t\xf6rv\xe9ny 12/B. \xa7 (2) bekezd\xe9s\xe9ben meghat\xe1rozott rendelkez\xe9s szerint.', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2012', u'A vagyoni \xe1llapot id\u0151pontja': u'2012.05.13.'}
+PROBLEM with pid b052 in file ./output/vagyonnyilatkozat__b052.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2013.01.31.', u'pid': u'b052', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2012', u'A vagyoni \xe1llapot id\u0151pontja': u'2012.12.31.'}
+PROBLEM with pid b052 in file ./output/vagyonnyilatkozat__b052.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.01.31.', u'pid': u'b052', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2013', u'A vagyoni \xe1llapot id\u0151pontja': u'2013.12.31.'}
+PROBLEM with pid b052 in file ./output/vagyonnyilatkozat__b052.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.06.05.', u'pid': u'b052', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.05.06.'}
+PROBLEM with pid b052 in file ./output/vagyonnyilatkozat__b052.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2015.01.31.', u'pid': u'b052', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.12.31.'}
+PROBLEM with pid v331 in file ./output/vagyonnyilatkozat__v331.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2012.07.02.', u'pid': u'v331', u'Megjegyz\xe9s': u'Z\xe1r\xf3 nyilatkozat a k\xf6zponti \xe1llamigazgat\xe1si szervekr\u0151l, valamint a Korm\xe1ny tagjai \xe9s az \xe1llamtitk\xe1rok jog\xe1ll\xe1s\xe1r\xf3l sz\xf3l\xf3 2010. \xe9vi XLIII. t\xf6rv\xe9ny 12/B. \xa7 (2) bekezd\xe9s\xe9ben meghat\xe1rozott rendelkez\xe9s szerint.', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2012', u'A vagyoni \xe1llapot id\u0151pontja': u'2012.06.01.'}
+PROBLEM with pid v331 in file ./output/vagyonnyilatkozat__v331.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2013.01.31.', u'pid': u'v331', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2012', u'A vagyoni \xe1llapot id\u0151pontja': u'2012.12.31.'}
+PROBLEM with pid v331 in file ./output/vagyonnyilatkozat__v331.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2013.04.05.', u'pid': u'v331', u'Megjegyz\xe9s': u'Z\xe1r\xf3 nyilatkozat a k\xf6zponti \xe1llamigazgat\xe1si szervekr\u0151l, valamint a Korm\xe1ny tagjai \xe9s az \xe1llamtitk\xe1rok jog\xe1ll\xe1s\xe1r\xf3l sz\xf3l\xf3 2010. \xe9vi XLIII. t\xf6rv\xe9ny 12/B. \xa7 (2) bekezd\xe9s\xe9ben meghat\xe1rozott rendelkez\xe9s szerint.', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2013', u'A vagyoni \xe1llapot id\u0151pontja': u'2013.03.06.'}
+PROBLEM with pid v331 in file ./output/vagyonnyilatkozat__v331.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.01.31.', u'pid': u'v331', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2013', u'A vagyoni \xe1llapot id\u0151pontja': u'2013.12.31.'}
+PROBLEM with pid v331 in file ./output/vagyonnyilatkozat__v331.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.06.05.', u'pid': u'v331', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.05.06.'}
+PROBLEM with pid v331 in file ./output/vagyonnyilatkozat__v331.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2015.01.31.', u'pid': u'v331', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.12.31.'}
+PROBLEM with pid s054 in file ./output/vagyonnyilatkozat__s054.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2012.01.31.', u'pid': u's054', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2011', u'A vagyoni \xe1llapot id\u0151pontja': u'2011.12.31.'}
+PROBLEM with pid s054 in file ./output/vagyonnyilatkozat__s054.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2013.01.31.', u'pid': u's054', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2012', u'A vagyoni \xe1llapot id\u0151pontja': u'2012.12.31.'}
+PROBLEM with pid s054 in file ./output/vagyonnyilatkozat__s054.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.01.31.', u'pid': u's054', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2013', u'A vagyoni \xe1llapot id\u0151pontja': u'2013.12.31.'}
+PROBLEM with pid s054 in file ./output/vagyonnyilatkozat__s054.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.06.05.', u'pid': u's054', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.05.06.'}
+PROBLEM with pid s054 in file ./output/vagyonnyilatkozat__s054.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.10.22.', u'pid': u's054', u'Megjegyz\xe9s': u'Z\xe1r\xf3 nyilatkozat a k\xf6zponti \xe1llamigazgat\xe1si szervekr\u0151l, valamint a Korm\xe1ny tagjai \xe9s az \xe1llamtitk\xe1rok jog\xe1ll\xe1s\xe1r\xf3l sz\xf3l\xf3 2010. \xe9vi XLIII. t\xf6rv\xe9ny 12/B. \xa7 (2) bekezd\xe9s\xe9ben meghat\xe1rozott rendelkez\xe9s szerint.', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.09.22.'}
+PROBLEM with pid s054 in file ./output/vagyonnyilatkozat__s054.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2015.01.31.', u'pid': u's054', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.12.31.'}
+PROBLEM with pid a014 in file ./output/vagyonnyilatkozat__a014.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2012.03.05.', u'pid': u'a014', u'Megjegyz\xe9s': u'Z\xe1r\xf3 nyilatkozat a k\xf6zponti \xe1llamigazgat\xe1si szervekr\u0151l, valamint a Korm\xe1ny tagjai \xe9s az \xe1llamtitk\xe1rok jog\xe1ll\xe1s\xe1r\xf3l sz\xf3l\xf3 2010. \xe9vi XLIII. t\xf6rv\xe9ny 12/B. \xa7 (2) bekezd\xe9s\xe9ben meghat\xe1rozott rendelkez\xe9s szerint.', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2012', u'A vagyoni \xe1llapot id\u0151pontja': u'2012.02.05.'}
+PROBLEM with pid a014 in file ./output/vagyonnyilatkozat__a014.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2013.01.31.', u'pid': u'a014', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2012', u'A vagyoni \xe1llapot id\u0151pontja': u'2012.12.31.'}
+PROBLEM with pid a014 in file ./output/vagyonnyilatkozat__a014.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.01.31.', u'pid': u'a014', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2013', u'A vagyoni \xe1llapot id\u0151pontja': u'2013.12.31.'}
+PROBLEM with pid a014 in file ./output/vagyonnyilatkozat__a014.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.06.05.', u'pid': u'a014', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.05.06.'}
+PROBLEM with pid l032 in file ./output/vagyonnyilatkozat__l032.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2012.01.31.', u'pid': u'l032', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2011', u'A vagyoni \xe1llapot id\u0151pontja': u'2011.12.31.'}
+PROBLEM with pid l032 in file ./output/vagyonnyilatkozat__l032.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2013.01.31.', u'pid': u'l032', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2012', u'A vagyoni \xe1llapot id\u0151pontja': u'2012.12.31.'}
+PROBLEM with pid l032 in file ./output/vagyonnyilatkozat__l032.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2013.03.30.', u'pid': u'l032', u'Megjegyz\xe9s': u'Z\xe1r\xf3 nyilatkozat a k\xf6zponti \xe1llamigazgat\xe1si szervekr\u0151l, valamint a Korm\xe1ny tagjai \xe9s az \xe1llamtitk\xe1rok jog\xe1ll\xe1s\xe1r\xf3l sz\xf3l\xf3 2010. \xe9vi XLIII. t\xf6rv\xe9ny 12/B. \xa7 (2) bekezd\xe9s\xe9ben meghat\xe1rozott rendelkez\xe9s szerint.', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2013', u'A vagyoni \xe1llapot id\u0151pontja': u'2013.02.27.'}
+PROBLEM with pid l032 in file ./output/vagyonnyilatkozat__l032.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.01.31.', u'pid': u'l032', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2013', u'A vagyoni \xe1llapot id\u0151pontja': u'2013.12.31.'}
+PROBLEM with pid l032 in file ./output/vagyonnyilatkozat__l032.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.06.05.', u'pid': u'l032', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.05.06.'}
+PROBLEM with pid l032 in file ./output/vagyonnyilatkozat__l032.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2015.01.31.', u'pid': u'l032', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.12.31.'}
+PROBLEM with pid s011 in file ./output/vagyonnyilatkozat__s011.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2012.11.06.', u'pid': u's011', u'Megjegyz\xe9s': u'Z\xe1r\xf3 nyilatkozat a k\xf6zponti \xe1llamigazgat\xe1si szervekr\u0151l, valamint a Korm\xe1ny tagjai \xe9s az \xe1llamtitk\xe1rok jog\xe1ll\xe1s\xe1r\xf3l sz\xf3l\xf3 2010. \xe9vi XLIII. t\xf6rv\xe9ny 12/B. \xa7 (2) bekezd\xe9s\xe9ben meghat\xe1rozott rendelkez\xe9s szerint.', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2012', u'A vagyoni \xe1llapot id\u0151pontja': u'2012.10.07.'}
+PROBLEM with pid s011 in file ./output/vagyonnyilatkozat__s011.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2013.01.31.', u'pid': u's011', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2012', u'A vagyoni \xe1llapot id\u0151pontja': u'2012.12.31.'}
+PROBLEM with pid s011 in file ./output/vagyonnyilatkozat__s011.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.01.31.', u'pid': u's011', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2013', u'A vagyoni \xe1llapot id\u0151pontja': u'2013.12.31.'}
+PROBLEM with pid s011 in file ./output/vagyonnyilatkozat__s011.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.06.05.', u'pid': u's011', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.05.06.'}
+PROBLEM with pid s011 in file ./output/vagyonnyilatkozat__s011.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2015.01.31.', u'pid': u's011', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.12.31.'}
+PROBLEM with pid b092 in file ./output/vagyonnyilatkozat__b092.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2013.01.03.', u'pid': u'b092', u'Megjegyz\xe9s': u'Z\xe1r\xf3', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2012', u'A vagyoni \xe1llapot id\u0151pontja': u'2012.12.04.'}
+PROBLEM with pid m039 in file ./output/vagyonnyilatkozat__m039.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2012.07.30.', u'pid': u'm039', u'Megjegyz\xe9s': u'Z\xe1r\xf3 nyilatkozat a k\xf6zponti \xe1llamigazgat\xe1si szervekr\u0151l, valamint a Korm\xe1ny tagjai \xe9s az \xe1llamtitk\xe1rok jog\xe1ll\xe1s\xe1r\xf3l sz\xf3l\xf3 2010. \xe9vi XLIII. t\xf6rv\xe9ny 12/B. \xa7 (2) bekezd\xe9s\xe9ben meghat\xe1rozott rendelkez\xe9s szerint.', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2012', u'A vagyoni \xe1llapot id\u0151pontja': u'2012.06.29.'}
+PROBLEM with pid m039 in file ./output/vagyonnyilatkozat__m039.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2013.01.31.', u'pid': u'm039', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2012', u'A vagyoni \xe1llapot id\u0151pontja': u'2012.12.31.'}
+PROBLEM with pid m039 in file ./output/vagyonnyilatkozat__m039.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.01.31.', u'pid': u'm039', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2013', u'A vagyoni \xe1llapot id\u0151pontja': u'2013.12.31.'}
+PROBLEM with pid m039 in file ./output/vagyonnyilatkozat__m039.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2014.06.05.', u'pid': u'm039', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.05.06.'}
+PROBLEM with pid m039 in file ./output/vagyonnyilatkozat__m039.csv!!
+{u'Beadva': u'igen', u'Bead\xe1si hat\xe1rid\u0151': u'2015.01.31.', u'pid': u'm039', u'Megjegyz\xe9s': u'\xa0', u'Vagyonnyilatkozat': u'Vagyonnyilatkozat 2014', u'A vagyoni \xe1llapot id\u0151pontja': u'2014.12.31.'}
